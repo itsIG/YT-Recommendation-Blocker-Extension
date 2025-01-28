@@ -1,4 +1,4 @@
-YouTube Recommendation Blocker
+## YouTube Recommendation Blocker
 
 A Chrome extension that cleans up YouTube by blocking recommendations on the homepage, sidebar, and video watch pages. Maintain focus by only seeing content you actively search for or access through playlists.
 

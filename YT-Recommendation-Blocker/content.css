@@ -1,0 +1,10 @@
+/* Initial blocking state - will be toggled via JS */
+ytd-rich-grid-renderer,
+#secondary,
+#related,
+ytd-watch-next-secondary-results-renderer,
+ytd-reel-shelf-renderer,
+ytd-rich-section-renderer,
+#contents.ytd-rich-grid-renderer {
+    display: none !important;
+}
